@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244204611393",
+    "project_id": "smash-test-832e1",
+    "storage_bucket": "smash-test-832e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244204611393:android:842d05c0c81396ca4a63c0",
+        "android_client_info": {
+          "package_name": "com.example.smash_test_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244204611393-ap3sb444r4ef1l802t8ncq69osjrtseq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsYsgtphdkCa0c_EEkDvQJ0q2Wp2y0n_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244204611393-ap3sb444r4ef1l802t8ncq69osjrtseq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

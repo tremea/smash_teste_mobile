@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>244204611393-mm6ovne18tq3bt0j8i8tpioup6s2mbt6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.244204611393-mm6ovne18tq3bt0j8i8tpioup6s2mbt6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAhBDsjA4CODLRASYbQp4wEgkwrG4Q-ZgQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>244204611393</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.smashTestMobile</string>
+	<key>PROJECT_ID</key>
+	<string>smash-test-832e1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smash-test-832e1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:244204611393:ios:17fef4e3ceac55644a63c0</string>
+</dict>
+</plist>
